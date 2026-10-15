@@ -1,6 +1,6 @@
-# Hi, I'm Aliado Valencia
+# Code Apps
 
-I'm interested in remote opportunities in content review, application testing, and digital projects. I bring attention to detail, a willingness to learn, and a practical interest in helping make digital experiences clear and useful.
+I’m interested in remote opportunities in content review, application testing, and digital projects. I bring attention to detail, a willingness to learn, and a practical interest in helping make digital experiences clear and useful.
 
 ## Areas of interest
 
@@ -10,11 +10,11 @@ I'm interested in remote opportunities in content review, application testing, a
 
 ## Projects
 
-- Aliado
-- INVITIA
-- Pedido Express
+- [Aliado](https://alex-arroyo-portfolio-shorts-appweb.vercel.app/#projects)
+- [INVITIA](https://alex-arroyo-portfolio-shorts-appweb.vercel.app/#projects)
+- [Pedido Express](https://alex-arroyo-portfolio-shorts-appweb.vercel.app/#projects)
 
-Explore the [interactive portfolio and demos](https://alex-arroyo-portfolio-shorts-appweb.vercel.app).
+Explore the [Code Apps portfolio and interactive demos](https://alex-arroyo-portfolio-shorts-appweb.vercel.app).
 
 ## Platforms
 
