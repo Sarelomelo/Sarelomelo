@@ -8,17 +8,19 @@ I'm interested in remote opportunities in content review, application testing, a
 - Application and website testing
 - Digital projects and online services
 
-## Organizations and platforms
+## Projects
 
-Organizations and services of interest: Aliado Valencia, INVITIA, and Pedido Express.
+- Aliado
+- INVITIA
+- Pedido Express
 
-Platforms: GitHub, Vercel, and Cloudflare.
+Explore the [interactive portfolio and demos](https://alex-arroyo-portfolio-shorts-appweb.vercel.app).
+
+## Platforms
+
+GitHub, Vercel, and Cloudflare.
 
 ## Languages
 
 - Spanish: Native
 - English: Basic
-
-## Portfolio
-
-[View my portfolio](https://alex-arroyo-portfolio-shorts-appweb.vercel.app)
